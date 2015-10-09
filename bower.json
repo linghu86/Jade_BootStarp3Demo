@@ -1,0 +1,19 @@
+{
+  "name": "Jade_BootStrap3Demo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/linghu86/Jade_BootStarp3Demo",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha"
+  }
+}
